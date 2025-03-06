@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ###> symfony/framework-bundle ###
 /.env.local
@@ -8,3 +9,6 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+=======
+/mysql
+>>>>>>> cf22b2ce2da856b6fa0925d11bb24fb1c4044412
